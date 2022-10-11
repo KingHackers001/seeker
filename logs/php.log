@@ -1,0 +1,28 @@
+[Tue Oct 11 08:54:18 2022] PHP 8.1.11 Development Server (http://0.0.0.0:8080) started
+[Tue Oct 11 08:54:21 2022] 127.0.0.1:46116 Accepted
+[Tue Oct 11 08:54:21 2022] 127.0.0.1:46116 [200]: GET /index.html
+[Tue Oct 11 08:54:21 2022] 127.0.0.1:46116 Closing
+[Tue Oct 11 08:58:47 2022] 127.0.0.1:46144 Accepted
+[Tue Oct 11 08:58:48 2022] 127.0.0.1:46144 [200]: GET /
+[Tue Oct 11 08:58:48 2022] 127.0.0.1:46144 Closing
+[Tue Oct 11 08:58:48 2022] 127.0.0.1:46162 Accepted
+[Tue Oct 11 08:58:48 2022] 127.0.0.1:46162 [200]: GET /css/main.css
+[Tue Oct 11 08:58:48 2022] 127.0.0.1:46162 Closing
+[Tue Oct 11 08:58:49 2022] 127.0.0.1:46164 Accepted
+[Tue Oct 11 08:58:49 2022] 127.0.0.1:46166 Accepted
+[Tue Oct 11 08:58:49 2022] 127.0.0.1:46168 Accepted
+[Tue Oct 11 08:58:49 2022] 127.0.0.1:46164 [200]: GET /js/main.js
+[Tue Oct 11 08:58:49 2022] 127.0.0.1:46164 Closing
+[Tue Oct 11 08:58:49 2022] 127.0.0.1:46166 [200]: GET /js/location.js
+[Tue Oct 11 08:58:49 2022] 127.0.0.1:46166 Closing
+[Tue Oct 11 08:58:49 2022] 127.0.0.1:46168 [200]: GET /js/info.js
+[Tue Oct 11 08:58:49 2022] 127.0.0.1:46168 Closing
+[Tue Oct 11 08:58:50 2022] 127.0.0.1:46170 Accepted
+[Tue Oct 11 08:58:50 2022] 127.0.0.1:46170 [200]: GET /js/warpspeed.min.js
+[Tue Oct 11 08:58:50 2022] 127.0.0.1:46170 Closing
+[Tue Oct 11 08:58:52 2022] 127.0.0.1:46202 Accepted
+[Tue Oct 11 08:58:53 2022] 127.0.0.1:46202 [200]: POST /info_handler.php
+[Tue Oct 11 08:58:53 2022] 127.0.0.1:46202 Closing
+[Tue Oct 11 08:58:57 2022] 127.0.0.1:46212 Accepted
+[Tue Oct 11 08:58:58 2022] 127.0.0.1:46212 [200]: POST /result_handler.php
+[Tue Oct 11 08:58:58 2022] 127.0.0.1:46212 Closing

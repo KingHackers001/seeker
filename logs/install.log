@@ -1,0 +1,55 @@
+=====================
+INSTALLING FOR DEBIAN
+=====================
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package python3-pip
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package python3-pip
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+php is already the newest version (8.1.11).
+The following packages were automatically installed and are no longer required:
+  liblua53 resolv-conf
+Use 'apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+--------------------
+
+Requirement already satisfied: requests in /data/data/com.termux/files/usr/lib/python3.10/site-packages (2.21.0)
+Requirement already satisfied: idna<2.9,>=2.5 in /data/data/com.termux/files/usr/lib/python3.10/site-packages (from requests) (2.8)
+Requirement already satisfied: certifi>=2017.4.17 in /data/data/com.termux/files/usr/lib/python3.10/site-packages (from requests) (2022.9.24)
+Requirement already satisfied: urllib3<1.25,>=1.21.1 in /data/data/com.termux/files/usr/lib/python3.10/site-packages (from requests) (1.24.2)
+Requirement already satisfied: chardet<3.1.0,>=3.0.2 in /data/data/com.termux/files/usr/lib/python3.10/site-packages (from requests) (3.0.4)
+
+--------------------
+
+Requirement already satisfied: packaging in /data/data/com.termux/files/usr/lib/python3.10/site-packages (21.3)
+Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in /data/data/com.termux/files/usr/lib/python3.10/site-packages (from packaging) (3.0.9)
+
+--------------------
+
+=========
+COMPLETED
+=========
+
